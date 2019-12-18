@@ -1,4 +1,4 @@
-id,petrol_tax,average_income,paved_highways,driver_proportion,petrol_consumption
+state_id,petrol_tax,average_income,paved_highways,driver_proportion,petrol_consumption
 1,9,3571,1976,0.525,541
 2,9,4092,1250,0.572,524
 3,9,3865,1586,0.58,561
